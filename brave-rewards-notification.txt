@@ -1,4 +1,0 @@
-This is a Brave Rewards publisher verification file.
-
-Domain: mwenge.github.io 
-Token: f9eff81cc389ff0629d038621a33a902ba515fd2b8dc3ff10124cfc5a20c04d5
